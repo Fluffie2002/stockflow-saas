@@ -9,9 +9,13 @@ Production-grade Inventory Management Platform — a full-stack SaaS application
 
 ## Demo
 
-<video src="docs/demo.mp4" controls width="100%"></video>
-
-> **Tip:** After pushing to GitHub, you can also drag `docs/demo.mp4` into an Issue/PR to get a `github.com/user-attachments` URL for faster loading.
+<p align="center">
+  <a href="https://github.com/Fluffie2002/stockflow-saas/blob/main/docs/demo.mp4">
+    <img src="docs/demo.gif" alt="StockFlow demo preview" width="800">
+  </a>
+  <br>
+  <sub>▶ Click preview to watch the full demo video (2 min)</sub>
+</p>
 
 ### Screenshots
 
@@ -93,7 +97,8 @@ stockflow/
 ├── packages/
 │   └── shared/       # Shared types and enums
 ├── docs/
-│   ├── demo.mp4      # Demo walkthrough video
+│   ├── demo.mp4      # Demo walkthrough video (~2.4 MB)
+│   ├── demo.gif      # README animated preview
 │   └── screenshots/  # README screenshots
 ├── docker-compose.yml
 └── package.json
