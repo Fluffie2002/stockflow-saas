@@ -10,11 +10,9 @@ Production-grade Inventory Management Platform — a full-stack SaaS application
 ## Demo
 
 <p align="center">
-  <a href="https://github.com/Fluffie2002/stockflow-saas/blob/main/docs/demo.mp4">
-    <img src="docs/demo.gif" alt="StockFlow demo preview" width="800">
-  </a>
+  <img src="docs/demo.gif" alt="StockFlow full demo walkthrough" width="800">
   <br>
-  <sub>▶ Click preview to watch the full demo video (2 min)</sub>
+  <sub>Full 2-minute product walkthrough · <a href="https://github.com/Fluffie2002/stockflow-saas/blob/main/docs/demo.mp4">HD video (MP4)</a></sub>
 </p>
 
 ### Screenshots
